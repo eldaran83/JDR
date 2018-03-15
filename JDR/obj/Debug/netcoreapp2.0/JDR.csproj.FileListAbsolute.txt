@@ -1,0 +1,12 @@
+c:\users\lionel\source\repos\JDR\JDR\obj\Debug\netcoreapp2.0\JDR.csprojResolveAssemblyReference.cache
+c:\users\lionel\source\repos\JDR\JDR\obj\Debug\netcoreapp2.0\JDR.csproj.CoreCompileInputs.cache
+c:\users\lionel\source\repos\JDR\JDR\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\lionel\source\repos\JDR\JDR\obj\Debug\netcoreapp2.0\JDR.AssemblyInfoInputs.cache
+c:\users\lionel\source\repos\JDR\JDR\obj\Debug\netcoreapp2.0\JDR.AssemblyInfo.cs
+c:\users\lionel\source\repos\JDR\JDR\bin\Debug\netcoreapp2.0\JDR.deps.json
+c:\users\lionel\source\repos\JDR\JDR\bin\Debug\netcoreapp2.0\JDR.runtimeconfig.json
+c:\users\lionel\source\repos\JDR\JDR\bin\Debug\netcoreapp2.0\JDR.runtimeconfig.dev.json
+c:\users\lionel\source\repos\JDR\JDR\bin\Debug\netcoreapp2.0\JDR.dll
+c:\users\lionel\source\repos\JDR\JDR\bin\Debug\netcoreapp2.0\JDR.pdb
+c:\users\lionel\source\repos\JDR\JDR\obj\Debug\netcoreapp2.0\JDR.dll
+c:\users\lionel\source\repos\JDR\JDR\obj\Debug\netcoreapp2.0\JDR.pdb
